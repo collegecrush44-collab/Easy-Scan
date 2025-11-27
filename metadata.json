@@ -1,0 +1,7 @@
+{
+  "name": "Easy Scan",
+  "description": "A secure, 100% offline document scanner. Features on-device OCR, edge detection, and PDF conversion. No internet, no servers, no API keys required.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
